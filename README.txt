@@ -9,3 +9,5 @@ e a sintaxe / lógica de python e programação estruturada
 
 ambiente em que o jogo é executado: Pycharm / via terminal da IDE
 
+os menus de iniciar e pausa são de minha autoria, enquanto os outros sprites foram reunidos da internet
+
