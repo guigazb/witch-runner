@@ -11,3 +11,8 @@ ambiente em que o jogo é executado: Pycharm / via terminal da IDE
 
 os menus de iniciar e pausa são de minha autoria, enquanto os outros sprites foram reunidos da internet
 
+fontes:
+https://9e0.itch.io/witches-pack
+https://cupnooble.itch.io/sprout-lands-ui-pack
+https://mixkit.co/free-sound-effects/run/
+https://freemusicarchive.org/genre/Instrumental/
